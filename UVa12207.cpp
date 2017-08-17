@@ -3,7 +3,6 @@
 /* Author: Kevin Chen                                  */
 /* Version: 2017/08/16                                 */
 /*******************************************************/
-
 //key word : double ended queue
 
 #include <iostream>
